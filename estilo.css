@@ -74,9 +74,12 @@ a{
     margin: auto;
 }
 
-img{
-    width: 100%;
-    background-color: none;
+img {
+    width: 450px;
+    height: 450px;
+    display: flex;
+    padding: 50px;
+    border-radius: 400px;
 }
 
 form{
