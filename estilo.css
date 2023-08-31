@@ -159,6 +159,11 @@ span{
     text-align: justify;
 }
 
+.selling {
+    text-align: center;
+    font-size: 22px;
+}
+
 @media screen and (max-width: 821px){
 
     header{
