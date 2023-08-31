@@ -1,22 +1,27 @@
 body {
     background-color: rgb(34, 34, 34);
     color: white;
-    font-family: 'Poppins', sans-serif;
+    font-family: Poppins, sans-serif;
     max-width: 1200px;
-    margin: 0 auto;
+    margin: 0px auto;
     padding: 15px;
 }
 
-h1{
-    font-family: 'Poppins', sans-serif;
-    color: white;
-    font-weight: 200;
+header {
+    display: block;
 }
 
-h2{
+h1 {
+    font-family: Poppins, sans-serif;
+    color: white;
+    font-weight: 200;
+    font-size: 56px;
+}
+
+h2 {
     font-size: 56px;
     line-height: 10px;
-    font-family: 'Poppins', sans-serif;
+    font-family: Poppins, sans-serif;
 }
 
 #title{
@@ -30,8 +35,8 @@ main{
     margin-top: 50px;
 }
 
-.head{
-    color: #1ad03f;
+.head {
+    color: rgb(26, 208, 63);
 }
 
 p{
@@ -144,6 +149,10 @@ span{
 
 .item-botao{
     padding-top: 50px;
+}
+
+.sell {
+    text-align: justify;
 }
 
 @media screen and (max-width: 821px){
