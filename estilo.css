@@ -34,7 +34,7 @@ h2 {
     padding-bottom: 10px;
 }
 
-main{
+main {
     display: flex;
     flex-direction: row;
     margin-top: 50px;
@@ -182,6 +182,10 @@ span{
     font-size: 30px;
     line-height: 50px;
     color: rgb(26, 208, 63);
+}
+
+aside {
+    display: block;
 }
 
 @media screen and (max-width: 821px){
