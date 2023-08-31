@@ -28,9 +28,10 @@ h2 {
     font-family: Poppins, sans-serif;
 }
 
-#title{
+#title {
     flex-direction: column;
-    line-height: 10px;  
+    line-height: 10px;
+    padding-bottom: 10px;
 }
 
 main{
