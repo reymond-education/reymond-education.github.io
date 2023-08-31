@@ -131,15 +131,21 @@ span{
     gap: 16px;
 }
 
-.container{
-    display: flex;  
+.container {
+    display: flex;
     flex-direction: row;
-    justify-content: space-around;
-    margin-top: 30px;
+    justify-content: center;
+    margin-top: 50px;
     flex-wrap: wrap;
     width: 100%;
     height: 202px;
     margin-bottom: 30px;
+}
+
+.item-1 {
+    text-align: center;
+    margin: 25px 100px;
+    gap: 16px;
 }
 
 .check{
